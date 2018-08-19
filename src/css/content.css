@@ -1,0 +1,37 @@
+/* CONTENT.CSS EST UN FICHIER QUI CONTIENT LES NOMS DES CLASS DES ELEMENTS */
+/*  HEADER -- NAV */
+.head_spooki{
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(300deg, black 0%, #ff00af 100%);
+}
+.post_log{
+    display: flex;
+    justify-content: center;
+}
+.Logo_img{
+    width: 95px;
+    height: 95px;
+   border-radius: 50%;
+}
+
+.navbar_head{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    color: white;
+}
+
+.boutonhigh{
+    border: 2px dashed lightgreen;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.yah{
+    padding-top: 50px;
+}
+
+/* accueil -- container */

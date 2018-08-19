@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gangk website</title>
+    <link rel="stylesheet" href="./css/quest.css">
+</head>
+<body>
+    <div class="itsacontainer">
+<header class="head_spooki">
+    <div class="post_log">
+        <img src="./img/MoLO.png" alt="C'est mon crew">
+    </div>
+<ul class="navbar_head">
+<li>h</li>
+<li>b</li>
+<li>j</li>
+</ul>
+</header>
+    </div>
+</body>
+</html>
+
+--------------------------------------------------------------------------------------
+
+css 
+
+body{
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+}
+
+.head_spooki{
+    background-color: red;
+}
